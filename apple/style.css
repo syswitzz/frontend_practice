@@ -1,0 +1,163 @@
+.hero_channel img{
+    
+  display:block;
+  height: 600px;
+  width:100vw;
+  object-fit: cover; 
+}
+.hero_channel{
+    position:relative;
+    justify-content:center;
+    display:flex;
+}
+.para{
+    top:20px;
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+    position:absolute;
+    
+    justify-content: center;
+
+}
+
+.firstchannel img{
+    display: block;
+    height: 600px;
+    width: 100vw;
+    object-fit: cover;
+
+}
+.first-channel{
+   
+    height: 600px;
+    width: 100vw;
+    object-fit: cover;
+    position: relative;
+
+}
+
+.text{
+    top:800px;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+    position:absolute;
+}
+.hero_channel1{
+  display:block;
+  height: 600px;
+  width:100vw;
+  object-fit: cover; 
+
+
+}
+
+.main-box {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); 
+  gap: 20px; 
+  position: relative;
+  
+  
+  
+}
+
+.multichannel img {
+  width: 100%; 
+  height: 600px; 
+  border-radius: 8px; 
+ 
+ 
+}
+.textbox1{
+    top: 60px;
+    left: 200px;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+    position: absolute;
+}
+.textbox2{
+    top: 60px;
+    left: 1000px;
+    
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+    position: absolute;
+
+}
+.buttons {
+  display: flex;
+  
+}
+.textbox3{
+    top: 650px;
+    color: white;
+    left: 200px;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+    position: absolute;
+}
+.textbox4{
+    top: 650px;
+    left: 1050px;
+    
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+    position: absolute;
+
+}
+.textbox5{
+    top:1300px;
+    
+    left: 200px;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+    position: absolute;
+
+}
+.textbox6{
+    top: 1300px;
+    left: 1000px;
+    
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+    position: absolute;
+}
+.para img{
+    height: 80px;
+    width: 250px;
+}
+.textbox2 img{
+    height: 40px;
+    width: 150px;
+
+}
+.textbox3 img{
+     height: 40px;
+    width: 150px;
+
+
+}
+.textbox5 img{
+     height: 40px;
+    width: 150px;
+
+}
+.textbox6 img{
+     height: 30px;
+    width: 150px;
+}
